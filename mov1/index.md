@@ -1,5 +1,5 @@
 
-- [![m1](https://img.youtube.com/vi/rjtO9EoCD6U/0.jpg](https://www.youtube.com/watch?v=rjtO9EoCD6U)
+- [![](https://img.youtube.com/vi/rjtO9EoCD6U/1.jpg)](https://www.youtube.com/watch?v=rjtO9EoCD6U)
 
 - [m1](https://www.youtube.com/watch?v=rjtO9EoCD6U)
 - [m2](https://www.youtube.com/watch?v=tAMb2kCj6-o)
