@@ -2,5 +2,5 @@
 
 [PHOTO GALLERY](res1/index.md)
 
-[VIDEO GALLERY](res1/index.md)
+[VIDEO GALLERY](mov1/index.md)
 
